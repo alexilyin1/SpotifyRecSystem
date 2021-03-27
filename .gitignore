@@ -135,3 +135,5 @@ CPPotify/
 env/
 
 reload/
+
+*.csv
