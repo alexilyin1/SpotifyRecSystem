@@ -128,7 +128,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-keys.py
+*keys.py
 
 CPPotify/
 
