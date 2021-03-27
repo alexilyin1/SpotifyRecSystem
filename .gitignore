@@ -130,10 +130,12 @@ dmypy.json
 
 *keys.py
 
-CPPotify/
+*CPPotify/
 
 env/
 
 reload/
 
 *.csv
+
+*playlist_str.py
